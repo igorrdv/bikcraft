@@ -17,6 +17,7 @@
 .footer-contato ul {
   margin-bottom: 32px;
 }
+
 .footer-contato li:nth-child(even):after {
   content: "";
   display: block;
